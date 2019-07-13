@@ -24,3 +24,5 @@ The repository contains collection of links to killer web resources and template
 19. [Start Bootstrap - Heroic Features](https://github.com/BlackrockDigital/startbootstrap-heroic-features)
 20. [Start Bootstrap - Blog Post](https://github.com/BlackrockDigital/startbootstrap-blog-post)
 21. [Start Bootstrap - Blog Home](https://github.com/BlackrockDigital/startbootstrap-blog-home)
+22. App Brewey - Web Development Resources(https://www.appbrewery.co/p/web-development-course-resources/)
+23.
